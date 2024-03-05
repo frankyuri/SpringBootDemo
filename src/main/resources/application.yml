@@ -1,0 +1,32 @@
+server:
+  port: 8081
+---
+
+
+
+---
+
+
+
+
+---
+
+
+
+---
+#
+#person:
+#  lastName: frank
+#  age: 17
+#  boss: false
+#  birth: 2020/04/05
+#  maps: {k1: v1,k2: l2}
+#  lists:
+#    - lisi
+#    - zhoaliu
+#  dog:
+#    name: 小狗
+#    age: 2
+
+
+
